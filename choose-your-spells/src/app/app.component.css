@@ -1,0 +1,4 @@
+/* Spaces \n in html */
+.nn {
+  white-space: pre-line;
+}
